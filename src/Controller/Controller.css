@@ -1,0 +1,64 @@
+.topo{
+    background-color: black;
+    display: flex;
+}
+
+#logo{
+    margin-top: 8px;
+    height: 200px;
+}
+#opcoes{
+    margin-left: 15px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+#h1buscador{
+    color: white;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    padding: 10px;
+    margin-left: 40px;
+    margin: 0px;
+}
+#h2{
+    color: white;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+}
+
+.busca{
+    margin: 0px;
+    margin-left: 5px;
+}
+
+input{
+    width: 70%;
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px;
+    margin-right: 0px;
+}
+
+button{
+    margin: 10px;
+    margin-left: 0px;
+    padding: 5px;
+    font-size: 20px;
+    background-color: brown;
+    color: white;
+    font-weight: bold;
+    border: 2px solid white;
+}
+button:hover{
+    box-shadow: 0px 0px 5px 5px white;
+}
+
+.shadow{
+    box-shadow: 0px 0px 5px 5px white;
+}

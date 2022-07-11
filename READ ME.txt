@@ -1,0 +1,10 @@
+Bem vindos ao meu segundo projeto React!
+
+Meu objetivo é colocar em prática todas as ferramentas que aprendi a utilizar no React para criar uma ferramenta de busca.
+
+---------------------------------------------------
+
+O dungeons & Dragons Library simula um aplicativo que pesquisa as regras desejadas dos três livros básicos do jogo, sem a necessidade de ficarmos procurando página a página durante a partida.
+
+Como é apenas uma prática, apenas está disponivel a busca por monstros, magia, itens mágicos e habilidades. Porém, posteriormente, pretendo aprimora o projeto para buscar também, talentos, classes, backgrounds, entre diversos outros recursos.
+

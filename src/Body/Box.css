@@ -1,0 +1,182 @@
+.oculto{
+    display: none;
+}
+
+.BigBox{
+    background-image: url("../assets/wallpaper.jpg");
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+    padding: 15px;
+    min-height: 100vh;
+}
+.titleBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin:15px;
+    color: white;
+    flex-direction: column;
+}
+.Box{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 5px;
+    margin-top: 50px;
+    padding: 15px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.smallBox{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 5px;
+    padding: 15px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.smallBox2{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    margin: 5px;
+    padding: 15px;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    color: white;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.errorBox{
+    display: flex;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin:15px;
+    color: white;
+    flex-direction: column;
+    max-width: 70%;
+}
+.resultBox{
+    display: flex;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin:15px;
+    color: white;
+    flex-direction: column;
+    width: 70%;
+}
+.resultBoxMany{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin:15px;
+    max-width: 90%;
+}
+.monsterBox{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: brown;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin:15px;
+    color: white;
+    flex-direction: column;
+    max-width: 70%;
+}
+.Name{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+    padding-bottom: 0px; 
+}
+.Type{
+    color: white; 
+    text-transform: uppercase;
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.Level{
+    color: white; 
+    text-transform: uppercase;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.info{
+    color: white;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.text{
+    margin: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.smallText{
+    margin: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    max-width: 290px;
+}
+.UnderlinedText{
+    margin: 5px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.descriptText{
+    padding-top: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.title{
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+}
